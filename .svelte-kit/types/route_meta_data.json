@@ -1,0 +1,33 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/about": [
+		"src/routes/+layout.ts"
+	],
+	"/atom.xml": [
+		"src/routes/atom.xml/+server.ts"
+	],
+	"/example": [
+		"src/routes/+layout.ts"
+	],
+	"/feed.json": [
+		"src/routes/feed.json/+server.ts"
+	],
+	"/hello-QWER": [
+		"src/routes/+layout.ts"
+	],
+	"/manifest.webmanifest": [
+		"src/routes/manifest.webmanifest/+server.ts"
+	],
+	"/quick-start": [
+		"src/routes/+layout.ts"
+	],
+	"/sitemap.xml": [
+		"src/routes/sitemap.xml/+server.ts"
+	],
+	"/versions.json": [
+		"src/routes/versions.json/+server.ts"
+	]
+}
